@@ -1,0 +1,86 @@
+#kefalida{
+	background-color: #429726;
+	height:155px;
+	width:1320px;
+	padding: 15px;
+	
+	
+	}
+	
+h2{
+	color:#F5FFFA;
+	font-size:50pt;
+	text-align:center;
+	font-family:Algerian;
+}
+#iposelido{
+	background-color: #429726;
+	height:20px;
+	width:1320px;
+    padding: 15px;
+	position:absolute;
+	top: 900px;
+}
+#ip1{
+	color:#F5FFFA;
+	font-size:10pt;
+	text-align:center;
+}
+#nav1{
+	background-color: #D3D3D3;	
+	text-align:left;
+	display: block;
+	position:absolute;
+	top: 200px;
+    width:300px;
+	height: 700px;
+	border: 20px;
+}
+#nav2{
+	background-color: #D3D3D3;	
+	text-align:left;
+	display: block;
+	position:absolute;
+	top: 200px;
+	left: 1055px;
+    width:300px;
+	height: 700px;	
+}
+article{
+	background-color:#89FDD3;	
+	text-align:justify;
+	font-size:15pt;
+	display: block;
+	position:absolute;
+	top: 200px;
+	left: 320px;
+    width:720px;
+	height: 700px;	
+	 overflow: auto;
+}
+.picture{
+	float:right;
+	padding:10px;
+			}
+#im1{
+	float: right;
+	position:absolute;
+	width:250px;
+	height:350px;
+	top: 100px;
+	left: 1px;
+}
+
+#im2{
+	float: left
+	position:absolute;
+	width:350px;
+	height:350px;
+	top: 100px;
+	left: 1px;
+	
+		
+
+
+   
+
